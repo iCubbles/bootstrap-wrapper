@@ -1,4 +1,8 @@
 ## bootstrap-wrapper
 
 <hr/>
-Note This page is generated based on the markdown-syntax. For details see <http://daringfireball.net/projects/markdown/syntax/>
+Bootstrap wrapper for usage in cubbles. 
+
+    Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web. 
+    See [bootstrap](http://getbootstrap.com/)
+
